@@ -1,6 +1,6 @@
 README
 ======
-Topic: The Standard Template Library
+Topic: Multimaps, Equal range method
 ======
 
 Here I will show you how to get a range of elements in a map (multimap) where we cannot have a unique key.
